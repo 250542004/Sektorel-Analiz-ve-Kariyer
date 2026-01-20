@@ -1,6 +1,6 @@
 # Sektörel Analiz ve Kariyer Hedefleri Raporu
 
-Bu çalışma, Fırat Üniversitesi Yazılım Mühendisliği (MTOK) bölümü **Profesyonel Kimlik ve Sektörel Analiz** dersi final projesi olarak hazırlanmıştır.
+Bu çalışma, Fırat Üniversitesi Yazılım Mühendisliği (MTOK) bölümü **Yazılım Mühendisliği Oryantasyonu** dersi final projesi olarak hazırlanmıştır.
 
 ## İçerik
 - **Odak Alanı:** Oyun Geliştirme (Game Development)
